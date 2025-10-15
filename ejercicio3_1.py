@@ -3,9 +3,6 @@ from tkinter import messagebox
 import math
 
 class Notas:
-    """
-    Clase para almacenar y calcular estadísticas de una lista de notas.
-    """
     def __init__(self):
 
         self.lista_notas = []
@@ -29,9 +26,6 @@ class Notas:
         return min(self.lista_notas)
 
 class VentanaPrincipal(tk.Tk):
-    """
-    Clase para la interfaz gráfica, hereda de tk.Tk que es la ventana principal.
-    """
     def __init__(self):
         super().__init__()
 
@@ -72,9 +66,6 @@ class VentanaPrincipal(tk.Tk):
         self.label_menor.place(x=20, y=300)
 
     def calcular_notas(self):
-        """
-        Esta función se ejecuta cuando se presiona el botón "Calcular".
-        """
         try:
             self.notas_logica.lista_notas.clear()
             for campo in self.campos_notas:
@@ -102,4 +93,5 @@ class VentanaPrincipal(tk.Tk):
 def main():
     app = VentanaPrincipal()
     app.mainloop()
+
 main()
