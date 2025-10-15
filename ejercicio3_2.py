@@ -156,9 +156,9 @@ class VentanaPrincipal(tk.Tk):
                 messagebox.showerror("Error", "Ingrese valores numéricos válidos.", parent=ventana)
 
         tk.Button(ventana, text="Calcular", command=calcular).place(x=100, y=110, width=80)
-        
 
 def main():
     app = VentanaPrincipal()
     app.mainloop()
+
 main()
