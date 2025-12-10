@@ -6,4 +6,9 @@
 [Ejercicio 3_1:Calculadora Notas](ejercicio3_1.py)
 
 [Ejercicio 3_2:Figuras Geometricas](ejercicio3_2.py)
+## Actividad 6
+[Ejercicio 6_1](ejercicio6_1.py)
 
+[Ejercicio 6_2](ejercicio6_2.py)
+
+[Ejercicio 6_3](ejercicio6_2.py)
