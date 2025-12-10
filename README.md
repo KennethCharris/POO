@@ -7,8 +7,8 @@
 
 [Ejercicio 3_2:Figuras Geometricas](ejercicio3_2.py)
 ## Actividad 6
-[Ejercicio 6_1](ejercicio6_1.py)
+[Ejercicio 6_1:Nomina](ejercicio6_1.py)
 
-[Ejercicio 6_2](ejercicio6_2.py)
+[Ejercicio 6_2:Gestion de Contenidos](ejercicio6_2.py)
 
-[Ejercicio 6_3](ejercicio6_2.py)
+[Ejercicio 6_3:Escenarios](ejercicio6_2.py)
